@@ -1,189 +1,214 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  name: Gyeongdeok Seo
+  email: seo62@illinois.edu
+  location: Illinois, USA
+  website: https://statduck.github.io
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
+      username: statduck
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: University of Illinois Urbana-Champaign
+        location: Illinois, USA
+        area: Statistics
+        start_date: 2026-08
+        end_date: present
+        degree: Ph.D.
+      - institution: Yonsei University
+        location: Seoul, South Korea
+        area: Statistics
+        start_date: 2024-03
+        end_date: 2026-02
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+          - "GPA: 4.15/4.30."
+        degree: M.S.
+      - institution: Yonsei University
+        location: Seoul, South Korea
+        area: Applied Statistics
+        start_date: 2016-03
+        end_date: 2022-08
         highlights:
-          - Description 1.
-          - Description 2.
-
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
+          - "GPA: 3.97/4.30."
+          - Exchange student, Georgia Institute of Technology (Fall 2021).
+          - Leave of absence for military service, Republic of Korea Air Force (February
+            2018–January 2020).
+        degree: B.A.
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Dissecting Causal Mechanism Shifts via FANS: Function And Noise Separation."
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+          - Gyeongdeok Seo
+          - Jaeyoon Shim
+          - Mingyu Kim
+          - Hoyoon Byun
+          - Yonghan Jung
+          - Kyungwoo Song
+        publisher: ICML 2026
+        url: https://icml.cc/virtual/2026/poster/62929
+        summary: "**Gyeongdeok Seo**, Jaeyoon Shim, Mingyu Kim, Hoyoon Byun, Yonghan
+          Jung, Kyungwoo Song."
+        journal: ICML 2026
+        date: "2026"
+      - title: Robust Adaptation of Foundation Models with Black-Box Visual Prompting.
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+          - Changdae Oh
+          - Gyeongdeok Seo
+          - Geunyoung Jung
+          - Zhi-Qi Cheng
+          - Hosik Choi
+          - Jiyoung Jung
+          - Kyungwoo Song
+        publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+        url: https://arxiv.org/abs/2407.17491
+        summary: Changdae Oh, **Gyeongdeok Seo**, Geunyoung Jung, Zhi-Qi Cheng, Hosik
+          Choi, Jiyoung Jung, Kyungwoo Song.
+        journal: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+      - title: Static and Dynamic Scoring Systems for Post-acute Sequelae of SARS-CoV-2
+          in a Korean Cohort.
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
-
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+          - Gyeongdeok Seo*
+          - Hyejin Joo*
+          - Kyungwoo Song*
+          - Mingyu Kim
+          - et al.
+          - Jaehun Jung
+          - Jacob Lee
+        publisher: International Journal of Infectious Diseases
+        url: https://www.ijidonline.com/article/S1201-9712(26)00013-5/fulltext
+        summary: "**Gyeongdeok Seo**\\*, Hyejin Joo\\*, Kyungwoo Song\\*, Mingyu Kim,
+          et al., Jaehun Jung, Jacob Lee. *Equal contribution.*"
+        journal: International Journal of Infectious Diseases
+      - title: "CCL: Causal-aware In-context Learning for Out-of-Distribution Generalization."
+        authors:
+          - Hoyoon Byun
+          - Gyeongdeok Seo
+          - Joonseong Kang
+          - Taero Kim
+          - Jihee Kim
+          - Kyungwoo Song
+        publisher: NeurIPS 2025
+        url: https://neurips.cc/virtual/2025/loc/san-diego/poster/119001
+        summary: Hoyoon Byun, **Gyeongdeok Seo**, Joonseong Kang, Taero Kim, Jihee Kim,
+          Kyungwoo Song.
+        journal: NeurIPS 2025
+        date: "2025"
+      - title: COVID-19 Prediction with Doubly Multi-task Gaussian Process.
+        authors:
+          - Sooyon Kim
+          - Yongtaek Lim
+          - Sungjun Lim
+          - Gyeongdeok Seo
+          - Jihee Kim
+          - Hojun Park
+          - Jaehun Jung
+          - Kyungwoo Song
+        publisher: Journal of Biomedical Informatics (2025)
+        url: https://www.sciencedirect.com/science/article/pii/S1532046425001017
+        summary: Sooyon Kim, Yongtaek Lim, Sungjun Lim, **Gyeongdeok Seo**, Jihee Kim,
+          Hojun Park, Jaehun Jung, Kyungwoo Song.
+        journal: Journal of Biomedical Informatics (2025)
+        date: "2025"
+      - title: First Step for Theoretical and Practical Foundations of Robust Visual
+          Prompting.
+        authors:
+          - Gyeongdeok Seo*
+          - Changdae Oh*
+          - Kyungwoo Song
+        publisher: IJCAI 2024 Trustworthy AI Workshop
+        url: https://trustaiijcai.github.io/trustai-ijcai24/papers/
+        summary: "**Gyeongdeok Seo**\\*, Changdae Oh\\*, Kyungwoo Song. *Equal contribution.*"
+        journal: IJCAI 2024 Trustworthy AI Workshop
+        date: "2024"
+    Experience:
+      - company: Yonsei University
+        position: Graduate Researcher — advised by Prof. Kyungwoo Song
+        start_date: 2024-03
+        end_date: 2025-12
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+          - Developed FANS (Function And Noise Separation), a framework using normalizing
+            flows to detect and dissect causal mechanism shifts into changes in the causal
+            function or the noise distribution.
+          - Proposed a statistical criterion based on independence between flow-generated
+            noise residuals and parent variables to distinguish function-driven and noise-driven
+            shifts in structural causal models.
+          - Filed a Korean patent application, *Method and Apparatus for Detecting and
+            Analyzing Causal Mechanism Shifts* (pending).
+      - company: Vaccine Safety and Causality Monitoring Project
+        position: Graduate Researcher — advised by Prof. Kyungwoo Song
+        start_date: 2024-03
+        end_date: 2025-12
+        summary: Establishment of a monitoring system and methodology to verify the
+          causality of adverse reactions of major interest after vaccination.
+        highlights:
+          - Designed static and dynamic scoring models for post-acute sequelae of SARS-CoV-2
+            (PASC) in a Korean cohort using logistic lasso and functional logistic lasso
+            regression; identified differences in chest pain scores among Omicron wave
+            sub-cohorts.
+          - Constructed a dynamic scoring system with time-varying coefficients based
+            on Functional Principal Component Analysis (FPCA) of longitudinal data.
+      - company: Global Research on Regulatory Evaluation of Biohealth Products
+        position: Research Project Participant
+        start_date: 2024-04
+        end_date: 2026-02
+        summary: Global Collaborative Research for Advancing Regulatory Science and
+          Technology in Safety and Efficacy Evaluation of Biohealth Products, funded
+          by the Ministry of Food and Drug Safety, Korea.
+        highlights:
+          - "Presented chapters of *Causal Inference: What If* in a bi-weekly seminar
+            and presented on detecting mechanism shifts to identify unmeasured confounders."
+      - company: NAVER FINANCIAL
+        position: Data Analyst
+        location: Seoul, South Korea
+        start_date: 2022-10
+        end_date: 2024-02
+        highlights:
+          - Engineered a data mart and time-series forecasting models to automate reporting;
+            developed interactive controllers for a commerce expert and integrated outputs
+            into dashboards for proactive risk detection.
+          - Analyzed Naver Pay payment trends and simulated promotion scenarios to support
+            business decisions.
+      - company: CC&I Research
+        position: Student Research Assistant (work-study)
+        location: Seoul, South Korea
+        start_date: 2020-03
+        end_date: 2021-02
+        highlights:
+          - Evaluated non-inferiority of a client's new device against the original using
+            the Wilcoxon signed-rank test to compare study endpoints.
+    Awards:
+      - title: Yonsei Blue Butterfly Scholarship
+        summary: Full tuition for undergraduate studies.
+        name: Yonsei Blue Butterfly Scholarship
+      - title: Yongwoon Scholarship
+        summary: Full tuition for master's studies.
+        name: Yongwoon Scholarship
+      - title: NRF Research Encouragement Scholarship
+        awarder: National Research Foundation of Korea
+        summary: Research encouragement scholarship for master's students.
+        name: NRF Research Encouragement Scholarship
+      - title: Award by the Chief of Maekyung Media Group
+        date: 2021-12
+        summary: 2021 NIA Big Data Contest.
+        name: Award by the Chief of Maekyung Media Group
+      - title: Award by the Chief of Korea Land & Housing Corporation
+        date: 2021-08
+        summary: 2021 DACON.
+        url: https://dacon.io/competitions/official/235745/codeshare/3025
+        name: Award by the Chief of Korea Land & Housing Corporation
+      - title: Award by NH Investment & Securities
+        date: 2021-02
+        summary: 2021 DACON.
+        name: Award by NH Investment & Securities
+    Teaching:
+      - label: Yonsei University — Teaching Assistant
+        details: STA1001 Introduction to Statistics, June–July 2024.
+    Skills:
+      - name: Programming
+        level: Advanced
+        keywords: Python, R, SQL
+        summary: "Advanced: Python, R, SQL"
+    Interests:
+      - name: Research interests
+        keywords: Causal Inference, Structural Causal Models, Probabilistic Machine
+          Learning
+        summary: Causal Inference, Structural Causal Models, Probabilistic Machine Learning
+  headline: Ph.D. Student in Statistics

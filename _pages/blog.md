@@ -3,7 +3,7 @@ layout: default
 permalink: /blog/
 title: blog
 nav: true
-nav_order: 1
+nav_order: 4
 pagination:
   enabled: true
   collection: posts
@@ -17,6 +17,13 @@ pagination:
 ---
 
 <div class="post">
+
+{% if site.posts.size == 0 %}
+
+  <h1>{{ site.blog_name }}</h1>
+  <p>{{ site.blog_description }}</p>
+  <p>No posts yet.</p>
+{% else %}
 
 {% assign blog_name_size = site.blog_name | size %}
 {% assign blog_description_size = site.blog_description | size %}
@@ -191,6 +198,8 @@ pagination:
 
 {% if page.pagination.enabled %}
 {% include pagination.liquid %}
+{% endif %}
+
 {% endif %}
 
 </div>
