@@ -3,7 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle: Ph.D. Student in Statistics · University of Illinois Urbana-Champaign
-profile: false
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
 selected_papers: false
 social: true
 announcements:
