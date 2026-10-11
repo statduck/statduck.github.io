@@ -27,4 +27,4 @@ I received my M.S. in Statistics from Yonsei University in February 2026, where 
 - **Causal mechanism shifts:** I developed FANS (Function And Noise Separation), which uses normalizing flows to distinguish changes in causal functions from changes in noise distributions. This work appeared at ICML 2026.
 - **Robust machine learning:** My collaborative work explores black-box visual prompting and causal-aware in-context learning for out-of-distribution generalization.
 
-Browse my [publications]({{ '/publications/' | relative_url }}) and [CV]({{ '/cv/' | relative_url }}) for more details.
+Browse my [publications]({{ '/publications/' | relative_url }}) for more details.
